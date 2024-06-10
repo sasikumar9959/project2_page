@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../2-CSS"
+		},
+		{
+			"path": "../UI Development"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2-CSS"
+	}
+}

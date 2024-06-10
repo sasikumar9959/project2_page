@@ -1,0 +1,17 @@
+body{
+    background-image: url("wp4430530.webp");
+    background-size: cover;
+    height: 100vh;
+  }
+  h3{
+    text-align: left;
+  }
+ H4{
+  text-align: right;
+ }
+h1{
+  font-size: 300%;
+}
+a{
+  font-size: 150%;
+}
